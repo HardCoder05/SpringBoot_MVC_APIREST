@@ -19,9 +19,7 @@ DELETE /api/commands/{id} # Eliminar comando
 
 #### Petición para Crear Comando
 
-```markdown
-![Ejemplo de Petición](/assets/postmanExample.png)
-```
+![Ejemplo de petición](/assets/postmanExample.png)
 
 ## Inicio Rápido 🚀
 
